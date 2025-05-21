@@ -55,4 +55,6 @@ This project is being developed with Express and MongoDB for the backend, and is
 ---
 
 > 🚧 Ongoing Development — Contributions and feedback are welcome!
+> figma :  [click here ](https://www.figma.com/design/Muv2HWNURVhmGvAqR71rOO/Untitled?node-id=0-1&p=f&t=IVPR6ZxuoRcT4bbz-0).
+> trello : [click here ](https://trello.com/b/HJT8ObpJ/car-code).
 
